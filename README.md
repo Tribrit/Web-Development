@@ -57,6 +57,6 @@ This project is a responsive portfolio website designed to showcase skills, serv
 1. Clone or download the repository.
 2. Open `index.html` in a web browser to view the website.
 
-##MEMBERS
+## MEMBERS
 
 Wesliy Odhiambo
