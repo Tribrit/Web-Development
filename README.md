@@ -58,4 +58,5 @@ This project is a responsive portfolio website designed to showcase skills, serv
 2. Open `index.html` in a web browser to view the website.
 
 ##MEMBERS
+
 Wesliy Odhiambo
