@@ -60,3 +60,4 @@ This project is a responsive portfolio website designed to showcase skills, serv
 ## MEMBERS
 
 Wesliy Odhiambo
+Hannifer Jebet 
